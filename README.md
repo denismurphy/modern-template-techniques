@@ -1,9 +1,9 @@
 
 # C++ Modern Template Techniques
 
-This repository contains a collection of advanced template techniques in C++, including class template argument deduction, smart pointers, structs, classes, abstract classes, virtual functions, `auto`, `lambda`, and `constexpr`.
+Here i explore the use of advanced template techniques in C++, including class template argument deduction, smart pointers, structs, classes, abstract classes, virtual functions, `auto`, `lambda`, and `constexpr`.
 
-The goal of this repository is to provide a comprehensive guide to modern template techniques in C++ and to serve as a resource for C++ developers looking to improve their template programming skills.
+The goal of this repository is for me to learn about modern template techniques in C++ and to serve as a resource ot other C++ developers looking to improve their template programming skills.
 
 ## Contents
 
@@ -43,7 +43,7 @@ Each example has a main function, which can be run to see the output of the code
 
 ## Contribute
 
-We welcome contributions to this repository. If you have an example of an advanced template technique that you would like to add, please open a pull request.
+I welcome contributions to this repository. If you have an example of an advanced template technique that you would like to add, please open a pull request.
 
 ## License
 
