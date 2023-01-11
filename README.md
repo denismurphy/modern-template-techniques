@@ -45,6 +45,10 @@ Each example has a main function, which can be run to see the output of the code
 
 I welcome contributions to this repository. If you have an example of an advanced template technique that you would like to add, please open a pull request.
 
+## Authors
+
+-   **Denis Murphy**
+
 ## License
 
 This repository is licensed under the MIT license.
