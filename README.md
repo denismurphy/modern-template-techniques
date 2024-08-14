@@ -1,52 +1,45 @@
+# 🚀 Modern Template Techniques
 
-# Modern Template Techniques
+This repository explores advanced template techniques in C++, including class template argument deduction, smart pointers, structs, classes, abstract classes, virtual functions, `auto`, `lambda`, and `constexpr`.
 
-Here i explore the use of advanced template techniques, including class template argument deduction, smart pointers, structs, classes, abstract classes, virtual functions, `auto`, `lambda`, and `constexpr`.
+🎯 The goal: Personal learning about modern template techniques.
 
-The goal of this repository is for me to learn about modern template techniques.
+## 📚 Contents
 
-## Contents
+This repo contains various examples illustrating different advanced template techniques and their use cases. Each example is well-commented and easy to understand.
 
-The repo contains various examples that illustrate different advanced template techniques and their use cases. Each example is well commented and easy to understand.
+### 🧩 Class Template Argument Deduction
 
-### Class Template Argument Deduction
+Demonstrates the class template argument deduction feature to deduce template arguments from constructor parameters.
 
-class template argument deduction feature to deduce template arguments from constructor parameters.
+### 🔗 Smart Pointers
 
-### Smart Pointers
+Explores using smart pointers to manage the lifetime of objects in class templates and structs.
 
-Smart pointers to manage the lifetime of objects in class templates and structs.
+### 🏗️ Structs and Classes
 
-### Structs and Classes
+Shows how structs and classes can be used together in template programming.
 
-Structs and classes in template programming being used together.
+### 🎭 Abstract Classes and Virtual Functions
 
-### Abstract Classes and Virtual Functions
+Illustrates the combination of abstract classes and virtual functions in template programming.
 
-Combination of abstract classes and virtual functions in template programming.
+### ⚡ Auto and Lambda
 
-### Auto and Lambda
+Demonstrates how `auto` and lambda can be used with templates to create more concise and expressive code.
 
-`auto` and lambda can be used in conjunction with templates to make code more concise and expressive.
+### ⏱️ Constexpr
 
-### Constexpr
+Explores using `constexpr` to make template code more efficient at runtime and during compile-time.
 
-`constexpr` to make template code more efficient at runtime and during compile-time.
+## 🤝 Contribute
 
-## How to Use
+Contributions to this repository are welcome. If you have an example of an advanced template technique you'd like to add, please open a pull request.
 
-The examples in this repository are personal reference, with each example covering a specific concept.
+## ✍️ Authors
 
-basic understanding of template programming in C++ before diving into the example.
+- **Denis Murphy**
 
-## Contribute
-
-I welcome contributions to this repository. If you have an example of an advanced template technique that you would like to add, please open a pull request.
-
-## Authors
-
--   **Denis Murphy**
-
-## License
+## 📄 License
 
 This repository is licensed under the MIT license.
