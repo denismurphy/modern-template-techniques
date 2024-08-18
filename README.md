@@ -32,14 +32,6 @@ Demonstrates how `auto` and lambda can be used with templates to create more con
 
 Explores using `constexpr` to make template code more efficient at runtime and during compile-time.
 
-## 🤝 Contribute
-
-Contributions to this repository are welcome. If you have an example of an advanced template technique you'd like to add, please open a pull request.
-
-## ✍️ Authors
-
-- **Denis Murphy**
-
 ## 📄 License
 
 This repository is licensed under the MIT license.
